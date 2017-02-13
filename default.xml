@@ -13,5 +13,5 @@
 	<linkfile dest="README" src="README"/>
 	<linkfile dest="setup-environment" src="setup-environment"/>
   </project>
-  <project remote="angee-devops" revision="master" name="meta-angee-distro" path="sources/meta-freescale-distro"/>
+  <project remote="angee-devops" revision="master" name="meta-angee-distro" path="sources/meta-angee-distro"/>
 </manifest>
